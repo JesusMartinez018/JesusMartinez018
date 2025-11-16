@@ -12,25 +12,54 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### **Languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-</p>
+### 💻 Lenguajes de Programación
+| Kotlin | Java | C# | SQL | PL/SQL |
+|-------|------|-----|------|--------|
+| <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> | <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> | <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> | <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> | 🟦 |
 
-#### **Tools & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
-</p>
+---
+
+### 📱 Desarrollo Móvil
+| Jetpack Compose | Android Studio |
+|----------------|----------------|
+| <img height="32" src="https://developer.android.com/images/compose/compose-logo.svg"> | <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"> |
+
+---
+
+### 🌐 Desarrollo Web
+| HTML | CSS | JavaScript | React | Bootstrap | JSTL |
+|------|------|------------|--------|-----------|-------|
+| <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> | <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> | <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> | <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> | 📘 |
+
+---
+
+### 🖥️ Desarrollo de Escritorio
+| Windows Forms | WPF | XAML | .NET Framework |
+|---------------|------|--------|----------------|
+| 🪟 | <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WPF_logo.svg"> | <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Xaml_logo.svg"> | <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"> |
+
+---
+
+### 📄 Lenguajes de marcado y datos
+| XML | XSL |
+|-----|-----|
+| <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg"> | 📄 |
+
+---
+
+### 🗄️ Bases de Datos
+| MySQL | Oracle | SQLite |
+|--------|--------|--------|
+| <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> | <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"> | <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"> |
+
+---
+
+### ⚙️ Herramientas y IDEs
+| Visual Studio | IntelliJ IDEA | VS Code | Eclipse | Git |
+|----------------|----------------|-----------|----------|------|
+| <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"> | <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"> | <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> | <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg"> | <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> |
 
 ---
 
