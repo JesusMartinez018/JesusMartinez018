@@ -178,10 +178,19 @@ IES Azarquiel
 
 ---
 
-### 📫 Contact
+## 🤝 Connect with me
 
-📧 **Email:** *(correodejesuss@gmail.com)*  
-🔗 **GitHub:** https://github.com/JesusMartinez018
+<p align="left">
+  <a href="mailto:correodejesuss@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/jes%C3%BAs-mart%C3%ADnez-998860329/">
+    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/JesusMartinez018">
+    <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
