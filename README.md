@@ -10,92 +10,136 @@
 - ⚙️ Experienced with **Java, Kotlin, SQL, HTML, CSS, Bash**  
 - 🧠 Constantly learning and building small projects to improve  
 
----
+## 🛠️ My Skills
 
-## 🛠️ Tech Stack
+### 💻 Programming Languages
+<p align="left">
+  <a href="https://www.java.com/">
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  </a>
+  <a href="https://kotlinlang.org/">
+    <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://www.oracle.com/database/technologies/appdev/plsql.html">
+    <img src="https://img.shields.io/badge/PL%2FSQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" />
+  </a>
+</p>
 
-### 💻 Lenguajes de Programación
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="40"><br>Kotlin</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"><br>Java</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40"><br>C#</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"><br>SQL</td>
-    <td align="center">🟦<br>PL/SQL</td>
-  </tr>
-</table>
+### 📱 Mobile Development
+<p align="left">
+  <a href="https://developer.android.com/">
+    <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
+  <a href="https://developer.android.com/jetpack/compose">
+    <img src="https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  </a>
+  <a href="https://developer.android.com/studio">
+    <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  </a>
+</p>
 
----
+### 🌐 Frontend Development
+<p align="left">
+  <a href="https://developer.mozilla.org/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  </a>
+  <a href="https://jakarta.ee/specifications/tags/">
+    <img src="https://img.shields.io/badge/JSTL-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" />
+  </a>
+</p>
 
-### 📱 Desarrollo Móvil
-<table>
-  <tr>
-    <td align="center"><img src="https://developer.android.com/images/compose/compose-logo.svg" height="40"><br>Jetpack Compose</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" height="40"><br>Android Studio</td>
-  </tr>
-</table>
+### 🖥️ Desktop Development
+<p align="left">
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/dotnet/desktop/wpf/">
+    <img src="https://img.shields.io/badge/WPF-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/dotnet/desktop/winforms/">
+    <img src="https://img.shields.io/badge/Windows%20Forms-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/dotnet/desktop/wpf/advanced/xaml-overview-wpf">
+    <img src="https://img.shields.io/badge/XAML-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
+  </a>
+</p>
 
----
+### 🗄️ Databases
+<p align="left">
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://www.oracle.com/database/">
+    <img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" />
+  </a>
+  <a href="https://www.sqlite.org/">
+    <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </a>
+</p>
 
-### 🌐 Desarrollo Web
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"><br>HTML</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"><br>CSS</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"><br>JavaScript</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"><br>React</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40"><br>Bootstrap</td>
-    <td align="center">📘<br>JSTL</td>
-  </tr>
-</table>
+### ⚙️ Tools & IDEs
+<p align="left">
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.jetbrains.com/idea/">
+    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  </a>
+  <a href="https://www.eclipse.org/">
+    <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white" />
+  </a>
+</p>
 
----
+### 🧩 Markup & Data
+<p align="left">
+  <a href="https://developer.mozilla.org/docs/Web/XML/XML_introduction">
+    <img src="https://img.shields.io/badge/XML-%23FF6600.svg?style=for-the-badge&logo=xml&logoColor=white" />
+  </a>
+  <a href="https://www.w3.org/TR/xslt-30/">
+    <img src="https://img.shields.io/badge/XSL%2FXSLT-%23007ACC.svg?style=for-the-badge&logo=w3c&logoColor=white" />
+  </a>
+</p>
 
-### 🖥️ Desarrollo de Escritorio
-<table>
-  <tr>
-    <td align="center">🪟<br>Windows Forms</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WPF_logo.svg" height="40"><br>WPF</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Xaml_logo.svg" height="40"><br>XAML</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" height="40"><br>.NET</td>
-  </tr>
-</table>
+### 🖥️ Operating Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
----
 
-### 📄 Lenguajes de marcado y datos
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" height="40"><br>XML</td>
-    <td align="center">📄<br>XSL</td>
-  </tr>
-</table>
-
----
-
-### 🗄️ Bases de Datos
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"><br>MySQL</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="40"><br>Oracle</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="40"><br>SQLite</td>
-  </tr>
-</table>
-
----
-
-### ⚙️ Herramientas y IDEs
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" height="40"><br>Visual Studio</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" height="40"><br>IntelliJ IDEA</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40"><br>VS Code</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" height="40"><br>Eclipse</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"><br>Git</td>
-  </tr>
-</table>
-
----
 
 ### 📌 Featured Projects
 
