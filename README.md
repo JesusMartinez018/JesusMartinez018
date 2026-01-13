@@ -181,12 +181,11 @@ IES Azarquiel
 ## 🤝 Connect with me
 
 <p align="left">
-  📧 **Email:** `correodejesuss@gmail.com`
   <a href="https://www.linkedin.com/in/jes%C3%BAs-mart%C3%ADnez-998860329/">
     <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
+  </a> 
 </p>
+ 📧 **Email:** `correodejesuss@gmail.com`
 
 ---
 
