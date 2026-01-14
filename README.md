@@ -177,8 +177,6 @@ IES Azarquiel
 
 ---
 
-## 🤝 Connect with me
-
 ## 📫 Contact
 
 - 📧 Email: `correodejesuss@gmail.com`
