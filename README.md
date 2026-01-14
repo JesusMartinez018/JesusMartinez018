@@ -172,8 +172,7 @@ IES Azarquiel
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JesusMartinez018&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusMartinez018&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://raw.githubusercontent.com/JesusMartinez018/JesusMartinez018/main/github-metrics.svg" alt="GitHub Metrics" width="800" />
 </p>
 
 ---
