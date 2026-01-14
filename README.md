@@ -48,6 +48,9 @@
   <a href="https://developer.android.com/studio">
     <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white" />
   </a>
+  <a href="https://developer.apple.com/xcode/swiftui/">
+    <img src="https://img.shields.io/badge/SwiftUI-%23000000.svg?style=for-the-badge&logo=swift&logoColor=white" />
+  </a>
 </p>
 
 ### 🌐 Frontend Development
