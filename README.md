@@ -171,8 +171,8 @@ IES Azarquiel
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JesusMartinez018/JesusMartinez018/main/github-metrics.svg" alt="GitHub Metrics" width="800" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/JesusMartinez018/JesusMartinez018/main/github-metrics.svg" alt="GitHub Metrics" width="600" />
 </p>
 
 ---
