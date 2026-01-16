@@ -183,7 +183,7 @@ IES Azarquiel
 ## 📫 Contact
 
 - 📧 Email: `correodejesuss@gmail.com`
-- 💼 LinkedIn: https://www.linkedin.com/in/jes%C3%BAs-mart%C3%ADnez-998860329/
+- 💼 LinkedIn: https://www.linkedin.com/in/jesus-martinezz/ 
 ---
 
 ✨ *Thanks for visiting my profile! Feel free to explore my projects.*
